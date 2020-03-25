@@ -1,0 +1,23 @@
+0-average codec time: 23.982429
+0-average convert time: 26.334954
+1-average codec time: 24.107237
+1-average convert time: 26.459262
+2-average codec time: 24.200246
+2-average convert time: 26.551270
+3-average codec time: 24.170878
+3-average convert time: 26.524888
+4-average codec time: 24.182646
+4-average convert time: 26.533497
+5-average codec time: 24.213430
+5-average convert time: 26.566519
+6-average codec time: 24.208694
+6-average convert time: 26.567212
+7-average codec time: 24.190106
+7-average convert time: 26.545255
+8-average codec time: 24.314790
+8-average convert time: 26.663561
+9-average codec time: 24.184183
+9-average convert time: 26.537026
+thread num:10
+ALL average codec time: 24.175464
+ALL average convert time: 26.528344

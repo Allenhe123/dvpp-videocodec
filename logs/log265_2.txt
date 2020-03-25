@@ -1,0 +1,7 @@
+0-average codec time: 4.766581
+0-average convert time: 7.095682
+1-average codec time: 4.748510
+1-average convert time: 7.078899
+thread num:2
+ALL average codec time: 4.757546
+ALL average convert time: 7.087290
